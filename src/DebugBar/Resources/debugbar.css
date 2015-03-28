@@ -29,7 +29,7 @@ div.phpdebugbar-closed {
     width: auto;
 }
 
-div.phpdebugbar * {
+.phpdebugbar * {
   margin: 0;
   padding: 0;
   border: 0;

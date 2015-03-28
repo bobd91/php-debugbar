@@ -1,8 +1,8 @@
 {
-    "name": "maximebf/debugbar",
-    "description": "Debug bar in the browser for php application",
+    "name": "bobd91/php-debugbar",
+    "description": "Fork of maximebf/debugbar",
     "keywords": ["debug"],
-    "homepage": "https://github.com/maximebf/php-debugbar",
+    "homepage": "https://github.com/bobd91/php-debugbar",
     "type": "library",
     "license": "MIT",
     "authors": [{
@@ -26,7 +26,7 @@
         "monolog/monolog": "Log using Monolog",
         "predis/predis": "Redis storage"
     },
-     "extra": {
+    "extra": {
         "branch-alias": {
             "dev-master": "1.10-dev"
         }
