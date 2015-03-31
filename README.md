@@ -1,5 +1,10 @@
 # PHP Debug Bar
 
+** strong **
+Forked due to problems with PhpDebugBar CSS styles overriding styles in MagedebugBar.
+Will revert to main PhpDebugBar git when the problem is fixed.
+
+
 [![Latest Stable Version](https://poser.pugx.org/maximebf/debugbar/v/stable.png)](https://packagist.org/packages/maximebf/debugbar) [![Total Downloads](https://poser.pugx.org/maximebf/debugbar/downloads.svg)](https://packagist.org/packages/maximebf/debugbar) [![License](https://poser.pugx.org/maximebf/debugbar/license.svg)](https://packagist.org/packages/maximebf/debugbar) [![Build Status](https://travis-ci.org/maximebf/php-debugbar.png?branch=master)](https://travis-ci.org/maximebf/php-debugbar)
 
 Displays a debug bar in the browser with information from php.
