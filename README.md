@@ -1,7 +1,8 @@
 # PHP Debug Bar
 
 
-*** Explanation for Fork ***
+**Explanation for Fork**
+
 Forked due to problems with PhpDebugBar CSS styles overriding styles in MagedebugBar.
 Will revert to main PhpDebugBar git when the problem is fixed.
 
